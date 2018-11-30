@@ -1,0 +1,23 @@
+{
+  "name": "wait-lock",
+  "version": "1.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "typing/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.iemmp.com/yizhi/wait-lock.git"
+  },
+  "keywords": [
+	  "lock",
+	  "unlock",
+	  "async",
+	  "await",
+	  "wait"
+  ],
+  "author": "",
+  "license": "ISC"
+}
